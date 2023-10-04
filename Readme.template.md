@@ -1,7 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{ Otaviano-Manoel }!</strong>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="200px" align="right">
-## 💜 Olá, meu nome é Otaviano Manoel!
 
 # Um pouco sobre mim
 
@@ -33,8 +32,9 @@
 
 Aqui estão alguns dos meus projetos destacados:
 
-- [Projeto 1](link_projeto2) - Meu primeiro projeto de html, css e js feito atraves do evento do Dev-em-Dobro.
-- [Projeto 2](link_projeto1) - Aplicação de html e css para desktop e mobile.
+- [Projeto-1](https://github.com/Otaviano-Manoel/Project-One-Piece) - Meu primeiro projeto de html, css e js feito atraves do evento do Dev-em-Dobro.
+- [Projeto-2](https://github.com/Otaviano-Manoel/add-card-frontend-mentor) - Aplicação de html e css para desktop e mobile.
+
 
 
 # Contato
