@@ -39,4 +39,4 @@ Aqui estão alguns dos meus projetos destacados:
 
 # Contato
 
-- 📫 Você pode entrar em contato comigo pelo e-mail [otavianomanoelvasconcelos@email.com].
+- 📫 Você pode entrar em contato comigo pelo e-mail [otavianomanoelvasconcelos@gmail.com].
