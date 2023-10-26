@@ -1,34 +1,24 @@
-## 💜 Olá, meu nome é <strong>{ Otaviano-Manoel }!</strong>
+## Welcome to my profile, I am Otaviano Manoel.😁
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="200px" align="right">
+ <div>
+   <a href="https://github.com/otaviano-manoel">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviano-manoel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### Contact me
+ 
+<div>
 
-# Um pouco sobre mim
-
-- 🌍 Moro em Cabedelo, PB, Brasil.
-- 👨‍💼 Atualmente, não trabalho na área de TI, mas sou apaixonado por programação.
-- 🚀 Estou determinado a migrar para a carreira de desenvolvedor web e estou constantemente aprendendo e aprimorando minhas habilidades nessa área.
-
-# Interesses e Objetivos
-
-- 💻 Tenho grande interesse em desenvolvimento web, incluindo tecnologias como HTML, CSS, JavaScript e frameworks populares, exemplo o React e TypeScript.
-- 📚 Estou sempre estudando e acompanhando as tendências da indústria de tecnologia.
-- 🌟 Meu objetivo é me tornar um desenvolvedor web competente e contribuir para projetos interessantes.
-
-
-# 🚀 Minhas Skills
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-
-# Projetos Destacados
-
-Aqui estão alguns dos meus projetos destacados:
-
-- [Projeto-1](https://github.com/Otaviano-Manoel/Project-One-Piece) - Meu primeiro projeto de html, css e js feito atraves do evento do Dev-em-Dobro.
-- [Projeto-2](https://github.com/Otaviano-Manoel/add-card-frontend-mentor) - Aplicação de html e css para desktop e mobile.
-
-
-
-# Contato
-
-- 📫 Você pode entrar em contato comigo pelo e-mail [otavianomanoelvasconcelos@gmail.com].
+ <a href="https://discord.com/channels/824970620529279006/1098552990035607563" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:otavianomanoelvasconcelos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+</div>
