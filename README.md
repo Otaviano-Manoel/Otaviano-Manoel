@@ -21,4 +21,7 @@
  <a href="https://discord.com/channels/824970620529279006/1098552990035607563" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:otavianomanoelvasconcelos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otaviano-manoel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <a href="https://exercism.org/profiles/Otaviano-Manoel" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Exercism-8A2BE2?style=for-the-badge&logo=Exercism&logoColor=white&color=%234682B4&link=%3Ca%3E">
+</a>
 </div>
