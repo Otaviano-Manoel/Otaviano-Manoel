@@ -1,27 +1,26 @@
-## Welcome to my profile, I am Otaviano Manoel.😁
+# 👋 Olá, eu sou Otaviano Manoel!
+Sou desenvolvedor de software focado em criar aplicações web e mobile com tecnologias modernas.
 
- <div>
-   <a href="https://github.com/otaviano-manoel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviano-manoel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Contact me
- 
-<div>
+## Sobre mim
+- 🎓 Estudante de [Análise e Desenvolvimento de Sistemas](https://www.unifatecie.edu.br/) pela [Unifatecie](https://www.unifatecie.edu.br/).
+- 🔭 Atualmente trabalhando em desafios de aplicações web através dos desafios do [Frontend Mentor](https://www.frontendmentor.io/).
+- 🌱 Aprendendo React Native, TypeScript e Sass para aprimorar minhas habilidades em desenvolvimento web.
+- 📫 Entre em contato comigo pelo email: [otavinaomanoelvasconcelos@gmail.com](mailto:otavinaomanoelvasconcelos@gmail.com).
 
- <a href="https://discord.com/channels/824970620529279006/1098552990035607563" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:otavianomanoelvasconcelos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/otaviano-manoel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## 🔧 Tecnologias e Ferramentas
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Sass](https://img.shields.io/badge/Sass-bf4180?logo=sass&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-  <a href="https://exercism.org/profiles/Otaviano-Manoel" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Exercism-8A2BE2?style=for-the-badge&logo=Exercism&logoColor=white&color=%234682B4&link=%3Ca%3E">
-</a>
-</div>
+## 📈 Estatísticas do GitHub
+![Otaviano Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviano-manoel&show_icons=true&theme=radical) &emsp; ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical)
+
+---
+
+⭐️ Deixe uma estrela nos meus repositórios favoritos se gostar do meu trabalho!
