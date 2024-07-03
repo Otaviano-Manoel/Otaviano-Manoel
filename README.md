@@ -5,7 +5,6 @@
   <h3 style="text-align: left; width: 400px; margin: 0;">
     "Sou desenvolvedor de software focado em criar aplicações web e mobile com tecnologias modernas."
   </h3>
-  <img src="./Assets/ferenc-almasi-c8h0n7fSTqs-unsplash.jpg" alt="JSX Coding" width="400" height="250" style="max-width: 100%; height: auto;">
 </div>
 
 
