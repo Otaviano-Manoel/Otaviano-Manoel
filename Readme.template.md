@@ -1,43 +1,35 @@
-## 💜 Olá, meu nome é <strong>{ Otaviano-Manoel }!</strong>
+# 👋 Olá, eu sou Otaviano Manoel!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="200px" align="right">
+<div align="center" style="text-align: center;">
+  <h3 style="display: inline-block; text-align: left; width: 400px; margin: 0;">
+    "Sou desenvolvedor de software focado em criar aplicações web e mobile com tecnologias modernas."
+  </h3>
+  <img src="./Assets/ferenc-almasi-c8h0n7fSTqs-unsplash.jpg" alt="JSX Coding" width="400" height="250" style="display: inline-block; max-width: 100%; height: auto;">
+</div>
 
-# Um pouco sobre mim
+## Sobre mim
+- 🎓 Estudante de [Análise e Desenvolvimento de Sistemas](https://www.unifatecie.edu.br/) pela [Unifatecie](https://www.unifatecie.edu.br/).
+- 🔭 Atualmente trabalhando em desafios de aplicações web através dos desafios do [Frontend Mentor](https://www.frontendmentor.io/).
+- 🌱 Aprendendo React Native, TypeScript e Sass para aprimorar minhas habilidades em desenvolvimento web.
+- 📫 Entre em contato comigo pelo email: [otavinaomanoelvasconcelos@gmail.com](mailto:otavinaomanoelvasconcelos@gmail.com).
 
-- 🌍 Moro em Cabedelo, PB, Brasil.
-- 👨‍💼 Atualmente, não trabalho na área de TI, mas sou apaixonado por programação.
-- 🚀 Estou determinado a migrar para a carreira de desenvolvedor web e estou constantemente aprendendo e aprimorando minhas habilidades nessa área.
+## 🔧 Tecnologias e Ferramentas
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Sass](https://img.shields.io/badge/Sass-bf4180?logo=sass&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
-# Interesses e Objetivos
+## 📈 Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otaviano-manoel&show_icons=true&theme=radical" alt="Otaviano Manoel's GitHub stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="400">
+</div>
 
-- 💻 Tenho grande interesse em desenvolvimento web, incluindo tecnologias como HTML, CSS, JavaScript e frameworks populares, exemplo o React e TypeScript.
-- 📚 Estou sempre estudando e acompanhando as tendências da indústria de tecnologia.
-- 🌟 Meu objetivo é me tornar um desenvolvedor web competente e contribuir para projetos interessantes.
+---
 
-
-# 🚀 Minhas Skills
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-
-## ⭐ Informações sobre minha conta GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
-
-# Projetos Destacados
-
-Aqui estão alguns dos meus projetos destacados:
-
-- [Projeto-1](https://github.com/Otaviano-Manoel/Project-One-Piece) - Meu primeiro projeto de html, css e js feito atraves do evento do Dev-em-Dobro.
-- [Projeto-2](https://github.com/Otaviano-Manoel/add-card-frontend-mentor) - Aplicação de html e css para desktop e mobile.
-
-
-
-# Contato
-
-- 📫 Você pode entrar em contato comigo pelo e-mail [otavianomanoelvasconcelos@email.com].
-
+⭐️ Deixe uma estrela nos meus repositórios favoritos se gostar do meu trabalho!

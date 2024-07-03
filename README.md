@@ -1,3 +1,6 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+
 # 👋 Olá, eu sou Otaviano Manoel!
 <div style="display: flex; align-items: center; gap: 50px; width: 100%; justify-content: center; flex-wrap: wrap;">
   <h3 style="text-align: left; width: 400px; margin: 0;">
