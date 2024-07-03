@@ -1,5 +1,12 @@
 # 👋 Olá, eu sou Otaviano Manoel!
-Sou desenvolvedor de software focado em criar aplicações web e mobile com tecnologias modernas.
+<div style="display: flex; align-items: center; gap: 50px; width: 100%; justify-content: center; flex-wrap: wrap;">
+  <h3 style="text-align: left; width: 400px; margin: 0;">
+    "Sou desenvolvedor de software focado em criar aplicações web e mobile com tecnologias modernas."
+  </h3>
+  <img src="./Assets/ferenc-almasi-c8h0n7fSTqs-unsplash.jpg" alt="JSX Coding" width="400" height="250" style="max-width: 100%; height: auto;">
+</div>
+
+
 
 ## Sobre mim
 - 🎓 Estudante de [Análise e Desenvolvimento de Sistemas](https://www.unifatecie.edu.br/) pela [Unifatecie](https://www.unifatecie.edu.br/).
@@ -19,7 +26,10 @@ Sou desenvolvedor de software focado em criar aplicações web e mobile com tecn
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
 ## 📈 Estatísticas do GitHub
-![Otaviano Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviano-manoel&show_icons=true&theme=radical) &emsp; ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical)
+<div style="display: flex; align-items: center; gap: 50px; width: 100%; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=otaviano-manoel&show_icons=true&theme=radical" alt="Otaviano Manoel's GitHub stats" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="max-width: 100%; height: auto;">
+</div>
 
 ---
 
