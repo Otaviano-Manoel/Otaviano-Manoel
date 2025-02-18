@@ -13,9 +13,7 @@
 
 <h1 align="center">👋 Olá, eu sou Otaviano Manoel!<h1>
 
-<p align="left" style="font-size: 16px;">
 Sou um desenvolvedor Full Stack apaixonado por tecnologia, especializado em React Native, Next.js, C# e Python. Gosto de desenvolver soluções eficientes e escaláveis, explorando novas tecnologias para aprimorar minhas habilidades e criar aplicações robustas.
-</p>
 
 <h1 align="center">📬 Contato</h1>
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
@@ -111,10 +109,10 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, especializado em Reac
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50"/> 
   </a>
-</div>
-<br>
-<div style="display: flex; align-items: center; gap: 50px; width: 100%; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="max-width: 100%; height: auto;">
+  
+  <div style="display: flex; align-items: center; gap: 50px; width: 100%; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="max-width: 100%; height: auto;">
+  </div>
 </div>
 <br>
 
