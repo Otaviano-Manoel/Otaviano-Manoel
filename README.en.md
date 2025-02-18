@@ -111,11 +111,12 @@ I'm a Full Stack Developer passionate about technology, specialized in React Nat
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50"/> 
   </a>
+
+  <div style="display: flex; align-items: center; gap: 50px; width: 100%; justify-content: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="max-width: 100%; height: auto;">
+  </div>
 </div>
-<br>
-<div style="display: flex; align-items: center; gap: 50px; width: 100%; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="max-width: 100%; height: auto;">
-</div>
+
 <br>
 
 ---
