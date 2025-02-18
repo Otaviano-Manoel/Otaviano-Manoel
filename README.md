@@ -1,21 +1,10 @@
-<h1 align="center">🌍 Idioma</h1>
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <a href="/README.md">
-    <img src="https://img.icons8.com/?size=100&id=iHI2gDXCsMzH&format=png&color=000000" width="50"/>
-  </a>
+<h1 align="center">👋 Hello, I'm Otaviano Manoel!<h1>
 
-  <a href="/README.en.md">
-    <img src="https://img.icons8.com/?size=100&id=Halaubi1vvya&format=png&color=000000" width="50"/>
-  </a>
-</div>
+<p align="left" style="font-size: 16px;">
+I'm a Full Stack Developer passionate about technology, specialized in React Native, Next.js, C# and Python. I enjoy developing efficient and scalable solutions, exploring new technologies to improve my skills and build robust applications.
+</p>
 
----
-
-<h1 align="center">👋 Olá, eu sou Otaviano Manoel!<h1>
-
-Sou um desenvolvedor Full Stack apaixonado por tecnologia, especializado em React Native, Next.js, C# e Python. Gosto de desenvolver soluções eficientes e escaláveis, explorando novas tecnologias para aprimorar minhas habilidades e criar aplicações robustas.
-
-<h1 align="center">📬 Contato</h1>
+<h1 align="center">📬 Contact me</h1>
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
 <a href="https://www.linkedin.com/in/otaviano-manoel/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50"/>
@@ -27,9 +16,9 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, especializado em Reac
 
 ---
 
-<h1 align="center">🚀 Tecnologias & Habilidades</h1>
+<h1 align="center">🚀 Technologies & Skills</h1>
 
-<h3 align="center">Linguagens</h3>
+<h3 align="center">Languages</h3>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer">
@@ -80,7 +69,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, especializado em Reac
   </a>
 </div>
 
-<h3 align="center">Back-end & Banco de Dados</h3>
+<h3 align="center">Back-end & Database</h3>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -97,7 +86,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, especializado em Reac
   </a>
 </div>
 
-<h3 align="center">Ferramentas</h3>
+<h3 align="center">Tools</h3>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -109,22 +98,23 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, especializado em Reac
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50"/> 
   </a>
-  
+
   <div style="display: flex; align-items: center; gap: 50px; width: 100%; justify-content: center; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="max-width: 100%; height: auto;">
   </div>
 </div>
+
 <br>
 
 ---
 
-<h1 align="center">📚 Formação Acadêmica</h1>
+<h1 align="center">📚 Academic background</h1>
 
-<p align="center" style="font-size: 16px;">🎓 Cursando Análise e Desenvolvimento de Sistemas na UniFatecie (3º semestre) – Previsão de conclusão: 2026.</p>
+<p align="center" style="font-size: 16px;">🎓 Studying Systems Analysis and Development at UniFatecie (3rd semester) – Expected completion date: 2026.</p>
 
 ---
 
-<h1 align="center">📌 Projetos Destacados</h1>
+<h1 align="center">📌 Featured Projects</h1>
 
 <div align="center" style="display:grid; gap: 10px; justify-content: center;">
     <a href="https://fm-tic-tac-toe.onrender.com/" target="_blank">
