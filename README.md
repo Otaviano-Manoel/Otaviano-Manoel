@@ -1,8 +1,6 @@
-<h1 align="center">👋 Hello, I'm Otaviano Manoel!<h1>
+<h1 align="center">👋 Hello, I'm Otaviano Manoel!</h1>
 
-<p align="left" style="font-size: 16px;">
-I'm a Full Stack Developer passionate about technology, specialized in React Native, Next.js, C# and Python. I enjoy developing efficient and scalable solutions, exploring new technologies to improve my skills and build robust applications.
-</p>
+<p align="left" style="font-size: 30px;">I'm a Full Stack Developer passionate about technology, specialized in React Native, Next.js, C# and Python. I enjoy developing efficient and scalable solutions, exploring new technologies to improve my skills and build robust applications.</p>
 
 <h1 align="center">📬 Contact me</h1>
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
@@ -98,10 +96,10 @@ I'm a Full Stack Developer passionate about technology, specialized in React Nat
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50"/> 
   </a>
+</div>
 
-  <div style="display: flex; align-items: center; gap: 50px; width: 100%; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="max-width: 100%; height: auto;">
-  </div>
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviano-manoel&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="max-width: 100%; height: auto;">
 </div>
 
 <br>
