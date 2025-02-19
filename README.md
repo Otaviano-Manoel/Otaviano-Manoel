@@ -70,13 +70,13 @@
 <h3 align="center">Back-end & Database</h3>
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/pt" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
